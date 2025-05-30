@@ -4,7 +4,7 @@
 - 🤖 AI/ML development (NLP, Computer Vision, Generative AI, LLM)
 - 💻 Software development and clean architecture
 - 🌐 Web development (React, Node.js, Ionic, Tailwind, Laravel)
-- 🎮 Game development (Unity, Godot)
+- 🎮 Game development (Unity)
 
 ## 🌱 I’m currently learning:
 - 🧠 Machine Learning with Python (TensorFlow, PyTorch)
