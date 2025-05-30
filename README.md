@@ -16,7 +16,7 @@
 - ✨ Open source AI tools and ML projects
 - 🕹️ Indie games or gamified learning apps
 - 📱 Cross-platform apps for productivity, education, or fun
-- 
+
 ## 🗃️ Database Experience:
 - 🔹 **Relational**: MySQL, PostgreSQL, SQLite
 - 🔸 **NoSQL**: MongoDB, Firebase Firestore
