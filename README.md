@@ -11,8 +11,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acejolouise&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acejolouise&theme=radical)](https://git.io/streak-stats)
-
 ## 💻 Programming Languages & Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
